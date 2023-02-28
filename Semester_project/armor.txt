@@ -1,0 +1,3 @@
+leather-armor 275  500
+chaninmel-armor 385 600
+iron-armor 825 700

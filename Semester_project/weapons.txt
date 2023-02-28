@@ -1,0 +1,4 @@
+Sword 6 250 100
+Bow 8 130 140
+Tridant 4 250 300
+Crossbow 9 340 600
