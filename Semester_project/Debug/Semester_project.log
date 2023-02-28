@@ -1,0 +1,12 @@
+﻿  Armor.cpp
+  Enchantments.cpp
+  main.cpp
+C:\Users\adolf\Documents\Programming\Fundamentals\Semester_project\Semester_project\main.cpp(131,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adolf\Documents\Programming\Fundamentals\Semester_project\Semester_project\main.cpp(235,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adolf\Documents\Programming\Fundamentals\Semester_project\Semester_project\main.cpp(240,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adolf\Documents\Programming\Fundamentals\Semester_project\Semester_project\main.cpp(52,101): warning C4101: 'size': unreferenced local variable
+  Potions.cpp
+  Tools.cpp
+  Weapons.cpp
+  Generating Code...
+  Semester_project.vcxproj -> C:\Users\adolf\Documents\Programming\Fundamentals\Semester_project\Debug\Semester_project.exe
